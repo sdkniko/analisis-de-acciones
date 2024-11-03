@@ -1,0 +1,114 @@
+symbol,signals,score,current_price,rsi,volume_ratio,trend_20d
+SMCI,"['RSI en zona de sobreventa (señal fuerte)', 'Precio por debajo de banda inferior de Bollinger', 'Cruce alcista de medias móviles', 'Volumen 2.2x sobre la media']",8,29.110000610351562,25.093191378663164,2.1565217981662794,-29.93982877288026
+XYL,"['RSI en zona de sobreventa (señal fuerte)', 'Precio por debajo de banda inferior de Bollinger', 'Volumen 2.5x sobre la media']",6,121.77999877929688,23.016756107290732,2.491313741325507,-8.477377864319935
+IQV,"['RSI en zona de sobreventa (señal fuerte)', 'Precio por debajo de banda inferior de Bollinger', 'Volumen 2.6x sobre la media']",6,205.82000732421875,26.83677023915459,2.6348734775625076,-9.4898800138443
+AFL,"['RSI en zona de sobreventa (señal fuerte)', 'Precio por debajo de banda inferior de Bollinger', 'Volumen 2.4x sobre la media']",6,104.79000091552734,28.36448070258652,2.3995910701384893,-7.698403908873597
+APTV,"['RSI en zona de sobreventa (señal fuerte)', 'Precio por debajo de banda inferior de Bollinger', 'Volumen 5.6x sobre la media']",6,56.83000183105469,22.918768643574353,5.556791004761648,-17.60185468287958
+EBAY,"['RSI en zona de sobreventa (señal fuerte)', 'Precio por debajo de banda inferior de Bollinger', 'Volumen 2.4x sobre la media']",6,57.5099983215332,21.519038181564582,2.4100842165322356,-12.03731915341023
+LLY,"['RSI en zona de sobreventa (señal fuerte)', 'Precio por debajo de banda inferior de Bollinger']",5,829.739990234375,27.347625624328955,1.7960429433794298,-6.302297818069813
+DVA,"['RSI en zona de sobreventa (señal fuerte)', 'Precio por debajo de banda inferior de Bollinger']",5,139.80999755859375,25.47276833853914,1.1918019405012044,-12.1078826169719
+SWKS,"['RSI en zona de sobreventa (señal fuerte)', 'Precio por debajo de banda inferior de Bollinger']",5,87.58000183105469,29.59443752963496,1.920042639470601,-9.459321005206023
+FTV,"['RSI en zona de sobreventa (señal fuerte)', 'Precio por debajo de banda inferior de Bollinger']",5,71.43000030517578,27.253455213681576,1.101646173868108,-6.919465345855458
+BIIB,"['RSI en zona de sobreventa (señal fuerte)', 'Precio por debajo de banda inferior de Bollinger']",5,174.0,29.40419108425675,1.3889431726248904,-5.833964092711474
+VRSN,"['RSI en zona de sobreventa (señal fuerte)', 'Precio por debajo de banda inferior de Bollinger']",5,176.83999633789062,29.755852406108872,1.1787123225874703,-5.128754222976428
+CL,"['RSI en zona de sobreventa (señal fuerte)', 'Precio por debajo de banda inferior de Bollinger']",5,93.70999908447266,26.795566114696072,0.6946582680713022,-5.793330115583584
+ACGL,"['RSI en zona de sobreventa (señal fuerte)', 'Precio por debajo de banda inferior de Bollinger']",5,98.55999755859375,25.6807567148809,1.737095356216099,-12.662827743683437
+SWK,"['RSI en zona de sobreventa (señal fuerte)', 'Precio por debajo de banda inferior de Bollinger']",5,92.94000244140625,23.264574122632737,1.4026244144642936,-13.358809219825218
+INVH,"['RSI en zona de sobreventa (señal fuerte)', 'Precio por debajo de banda inferior de Bollinger']",5,31.40999984741211,26.96409558593517,1.359922169424453,-8.023430617976457
+BALL,"['RSI en zona de sobreventa (señal fuerte)', 'Precio por debajo de banda inferior de Bollinger']",5,59.25,28.42378108784807,1.4725879547620813,-9.334351364272365
+ICE,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger', 'Volumen 2.3x sobre la media']",4,155.8699951171875,33.311503467109844,2.3307031945520245,-4.526521890418788
+UBER,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger', 'Volumen 3.3x sobre la media']",4,72.05000305175781,36.99686126590151,3.3044656386312483,-1.2201800930338402
+LIN,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger', 'Volumen 2.3x sobre la media']",4,456.1499938964844,30.762874711108225,2.2773595237281574,-2.8951582977148727
+MSFT,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger', 'Volumen 2.7x sobre la media']",4,406.3500061035156,36.62067884958313,2.736028513341819,-2.4463442244125555
+MGM,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger', 'Volumen 3.1x sobre la media']",4,36.869998931884766,37.502144787403424,3.0821925396984913,-7.058228803379318
+MET,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger', 'Volumen 2.5x sobre la media']",4,78.41999816894531,33.454291632938464,2.495131015050616,-3.494959257475727
+CPT,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger', 'Volumen 2.2x sobre la media']",4,115.79000091552734,35.2648833300353,2.2095984028478646,-4.131476994703265
+MPWR,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger', 'Volumen 4.8x sobre la media']",4,759.2999877929688,30.04284537611335,4.781846813464115,-17.713358136768488
+O,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger', 'Volumen 2.1x sobre la media']",4,59.369998931884766,32.44867879119161,2.146655271320103,-4.8557732690719835
+EQR,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger', 'Volumen 2.3x sobre la media']",4,70.37000274658203,32.44702388385663,2.289111620385742,-4.049623315530715
+VLTO,['RSI en zona de sobreventa (señal fuerte)'],3,102.19000244140625,23.641681513471298,0.5547726280188405,-8.1933297252897
+TT,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,370.1600036621094,35.09973642096148,1.564526701795013,-4.334114524878374
+MRK,['RSI en zona de sobreventa (señal fuerte)'],3,102.31999969482422,27.26641469528859,1.804178702431701,-7.133781619695945
+UDR,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,42.189998626708984,34.04207364634625,1.573906756949866,-4.697599623335158
+PAYC,"['Cruce alcista de medias móviles', 'Volumen 4.0x sobre la media']",3,209.02999877929688,86.05559774419805,4.013626946037049,25.498320030752097
+EXR,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,163.3000030517578,35.4235730351034,0.9604929422909704,-7.379045253807726
+IT,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,502.5,37.38315888899371,1.2083654496470575,-1.1391151601615968
+OTIS,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,98.19999694824219,36.60509052469452,0.9040046473251797,-5.848519582965461
+TSCO,['RSI en zona de sobreventa (señal fuerte)'],3,265.510009765625,28.8604987753058,1.2027105284303061,-9.025182726413295
+AMD,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,144.07000732421875,37.843724593206936,1.08055205213851,-11.532083558756124
+LYB,['RSI en zona de sobreventa (señal fuerte)'],3,86.8499984741211,23.97134306765274,1.85316730521196,-8.45367770662353
+ACN,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,344.82000732421875,36.67864901867218,0.9111179972525352,-4.156915449033283
+IDXX,"['Precio por debajo de banda inferior de Bollinger', 'Volumen 3.0x sobre la media']",3,406.9200134277344,18.56013464517126,2.9700985512310205,-15.842152822304845
+MSCI,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,571.2000122070312,39.19193219857132,0.9888141727029992,-2.9083281641594794
+BG,['RSI en zona de sobreventa (señal fuerte)'],3,84.0199966430664,23.572888411942813,1.4315997834881742,-13.085757489899951
+KHC,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,33.459999084472656,31.61553244613735,1.5836098297732841,-2.077843495812426
+PEP,['RSI en zona de sobreventa (señal fuerte)'],3,166.0800018310547,29.526558509636942,1.066308261980513,-1.4537453070599282
+CAH,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,108.5199966430664,37.094318304775285,1.0827607892771123,-1.6583614466327834
+AOS,['RSI en zona de sobreventa (señal fuerte)'],3,75.0999984741211,27.491632694439403,0.6678740112275277,-14.181240268729745
+SPGI,['RSI en zona de sobreventa (señal fuerte)'],3,480.3599853515625,27.698482482135077,1.2167441102607661,-6.653710038635041
+MHK,['RSI en zona de sobreventa (señal fuerte)'],3,134.27000427246094,28.849381214755155,0.5118194918512747,-15.287063550497827
+RTX,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,120.98999786376953,39.36608317228656,0.7070359320023035,-2.1670577705634297
+TDG,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,1302.300048828125,37.63766800747717,1.2012995952531733,-3.1091607001680677
+ETR,"['Cruce MACD alcista', 'Volumen 3.2x sobre la media']",3,154.77999877929688,84.17391288532733,3.2470850701451375,16.37593893180216
+TER,['RSI en zona de sobreventa (señal fuerte)'],3,106.20999908447266,26.283759080971322,1.4807848307133136,-17.67304580511021
+BDX,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,233.58999633789062,39.26878681230206,0.9876562019043718,-1.5883064807746372
+MDLZ,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,68.4800033569336,34.64145673928225,1.267362733219733,-3.766160999514956
+ELV,['RSI en zona de sobreventa (señal fuerte)'],3,405.760009765625,22.34103312581574,0.8880174892583812,-18.562968436402404
+PLD,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,112.94000244140625,32.76150806147392,0.7511769442004649,-7.456570309615007
+EL,"['Precio por debajo de banda inferior de Bollinger', 'Volumen 6.4x sobre la media']",3,68.94000244140625,17.845074963502313,6.38872392436097,-27.743423335822893
+ERIE,['RSI en zona de sobreventa (señal fuerte)'],3,448.8399963378906,26.94310577589046,1.771021264049056,-16.012344497432785
+KMB,['RSI en zona de sobreventa (señal fuerte)'],3,134.17999267578125,27.989838682873156,0.7564639429368313,-4.1845193453974865
+HII,"['Precio por debajo de banda inferior de Bollinger', 'Volumen 7.0x sobre la media']",3,184.9600067138672,9.801564115401035,6.988339574226108,-28.156924473116916
+REGN,"['Precio por debajo de banda inferior de Bollinger', 'Volumen 3.0x sobre la media']",3,838.2000122070312,12.146409914696235,2.972050390360512,-17.385348759550222
+TMO,['RSI en zona de sobreventa (señal fuerte)'],3,546.3200073242188,25.396936799878816,0.7359957184054202,-9.086064224644163
+VICI,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,31.760000228881836,36.716131443090944,1.3834264068361823,-2.4869495656492213
+TFX,"['Precio por debajo de banda inferior de Bollinger', 'Volumen 4.2x sobre la media']",3,201.05999755859375,17.916159050410897,4.187505865780156,-16.06412156886652
+EG,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,355.6099853515625,31.03911026410664,1.822550456497197,-9.656524118981501
+EIX,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,82.4000015258789,38.944601545073986,1.6495289313686063,-4.036235866328375
+MPC,['RSI en zona de sobreventa (señal fuerte)'],3,145.47000122070312,28.75307185234682,0.7197945070690799,-16.798213070439505
+NEM,['RSI en zona de sobreventa (señal fuerte)'],3,45.439998626708984,25.361251520813383,1.1219132054848286,-14.586469971700255
+MTCH,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,36.029998779296875,37.06541960402725,1.1006129665620155,-3.37892760873012
+KO,['RSI en zona de sobreventa (señal fuerte)'],3,65.30999755859375,25.258004161061137,1.0215796127971155,-7.387974095975669
+FE,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,41.83000183105469,34.244794984511714,1.0915934373034601,-3.661898675591879
+CZR,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,40.04999923706055,38.87281193659987,1.9502538576917403,-8.665905061098666
+FCX,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,45.02000045776367,37.775091146481095,0.7817145314574555,-9.265346506184091
+PSX,['RSI en zona de sobreventa (señal fuerte)'],3,121.81999969482422,29.02483593822724,1.2641555897057886,-12.315550192884805
+HSY,['RSI en zona de sobreventa (señal fuerte)'],3,177.5800018310547,26.611625030655304,1.0257810852859326,-7.0213117317227125
+MTD,['RSI en zona de sobreventa (señal fuerte)'],3,1291.75,28.77264183476403,0.757057973792349,-11.72953543463212
+ECL,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,245.72999572753906,36.2668061985834,1.6514480207867626,-2.009813159091356
+GD,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,291.6099853515625,35.76685661787049,1.2300959614803768,-2.201047435502479
+EFX,['RSI en zona de sobreventa (señal fuerte)'],3,265.0199890136719,27.1423829731241,0.6689056641813657,-9.703581255989135
+CMG,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,55.77000045776367,38.04114393616992,1.467877347229357,-1.640212156370291
+KEYS,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,149.00999450683594,37.39800568985886,0.6269808890470594,-3.597083880393681
+BKNG,"['Cruce MACD alcista', 'Volumen 2.8x sobre la media']",3,4676.25,82.36947404973417,2.8091557824084763,13.940378606768778
+STZ,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,232.33999633789062,31.036488497074302,0.7704286354747453,-4.641903485291632
+QRVO,"['Precio por debajo de banda inferior de Bollinger', 'Volumen 2.4x sobre la media']",3,71.26000213623047,14.369508249484412,2.3982008441594616,-29.91738599296292
+YUM,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,131.16000366210938,38.24385122147788,1.0111646880655187,-4.40930162212897
+GIS,['RSI en zona de sobreventa (señal fuerte)'],3,68.0199966430664,28.60886503197696,1.3625067778637403,-6.091144976962859
+LMT,['RSI en zona de sobreventa (señal fuerte)'],3,546.0499877929688,28.17261170237296,0.9487184499871589,-9.865969893474102
+NTAP,"['RSI aproximándose a sobreventa', 'Precio por debajo de banda inferior de Bollinger']",3,115.30999755859375,33.78708397790332,1.3736273096170846,-5.630573324765898
+GEN,"['Cruce MACD alcista', 'Volumen 3.6x sobre la media']",3,29.110000610351562,69.92937161261591,3.5620960606175274,7.934747317317958
+XEL,['Cruce MACD alcista'],2,66.80999755859375,65.83949756613325,1.8800403183978334,3.7422297757965017
+C,['Cruce MACD alcista'],2,64.16999816894531,54.71283953196703,0.7669272230943832,4.664812806382068
+CAT,['Precio por debajo de banda inferior de Bollinger'],2,376.20001220703125,43.46625227996696,0.7974528164019166,-3.4617007791855503
+MCHP,['Precio por debajo de banda inferior de Bollinger'],2,73.37000274658203,40.1178463089296,1.8470175512976001,-5.120909078890479
+QCOM,['Precio por debajo de banda inferior de Bollinger'],2,162.77000427246094,42.055235513408036,1.4597970808504894,-3.640773125236163
+HUBB,['Precio por debajo de banda inferior de Bollinger'],2,427.0299987792969,42.36518549218392,1.198228467728935,0.2653216480409615
+BMY,['Cruce MACD alcista'],2,55.77000045776367,70.0400267755217,1.7342769190448115,4.048511278764844
+VRTX,['Cruce alcista de medias móviles'],2,475.9800109863281,50.9195407034574,1.3579089895673235,4.945435739620829
+INTC,['Precio por debajo de banda inferior de Bollinger'],2,21.520000457763672,41.158584721770026,1.63906156454325,-3.324347544965567
+ZBRA,['Cruce MACD alcista'],2,381.9700012207031,62.26157251057428,1.7056616119167276,4.9685305571611105
+HST,['Precio por debajo de banda inferior de Bollinger'],2,17.239999771118164,41.947210436314606,1.0536634153751567,-0.8055201174259619
+SYY,['Cruce MACD alcista'],2,74.94999694824219,48.75513560667126,0.7433462012419666,-0.8991145443219661
+BKR,['Cruce MACD alcista'],2,38.08000183105469,61.50211153911205,1.5851317830876197,1.4114583349206677
+AME,['Cruce MACD alcista'],2,183.33999633789062,78.3285934276484,1.872131977676378,8.421046552569544
+IEX,['Cruce MACD alcista'],2,214.63999938964844,59.60464032730053,1.8143554461338416,2.1355632220262377
+MU,['Precio por debajo de banda inferior de Bollinger'],2,99.6500015258789,43.11791209235879,1.0586579747623626,-2.0210129354399697
+AMGN,['Cruce MACD alcista'],2,320.1600036621094,49.38314883252547,1.628648680680187,0.8441453266475607
+EA,['Cruce alcista de medias móviles'],2,150.85000610351562,68.15394307847467,1.5871742858724067,7.221553405218506
+CDNS,['Cruce alcista de medias móviles'],2,276.1199951171875,55.14324711494979,1.1790346305207822,3.886521780415131
+ORCL,['Precio por debajo de banda inferior de Bollinger'],2,167.83999633789062,45.29387814472975,1.2903269111575024,0.8134964951708845
+PWR,['Precio por debajo de banda inferior de Bollinger'],2,301.6300048828125,47.78366832228328,1.8188878078966129,1.0824433821699841
+CI,"['RSI aproximándose a sobreventa', 'Volumen 2.0x sobre la media']",2,314.80999755859375,32.90330587256102,2.0299541888545396,-7.561075929233196
+CMCSA,['Cruce MACD alcista'],2,43.66999816894531,70.47740051532614,1.9401139363942606,7.0080781656775
+AJG,['Precio por debajo de banda inferior de Bollinger'],2,281.20001220703125,40.91901042607617,0.9340683021526798,-1.6989391711670687
