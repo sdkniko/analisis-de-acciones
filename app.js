@@ -80,6 +80,65 @@ async function authMiddleware(req, res, next) {
     return res.status(403).json({ error: 'Token inválido o expirado' });
   }
 }
+app.post('/login', async (req, res) => {
+  const { username, password } = req.body;
+
+  try {
+    // Buscar usuario por nombre de usuario
+    const user = await User.findOne({ username });
+    if (!user) {
+      return res.status(404).json({ error: 'Usuario no encontrado' });
+    }
+
+    // Verificar contraseña
+    const validPassword = await bcrypt.compare(password, user.password);
+    if (!validPassword) {
+      return res.status(403).json({ error: 'Contraseña incorrecta' });
+    }
+
+    // Generar JWT
+    const token = jwt.sign({ username: user.username }, process.env.JWT_SECRET, { expiresIn: '1h' });
+
+    // Si el usuario no tiene un secret TOTP, generarlo y devolver el QR
+    if (!user.totpSecret) {
+      const secret = speakeasy.generateSecret({ length: 20 });
+      const otpauthUrl = speakeasy.otpauthURL({
+        secret: secret.base32,
+        label: `app:${username}`,
+        issuer: 'empresa',
+        encoding: 'base32'
+      });
+
+      // Guardar el secret en la base de datos
+      user.totpSecret = secret.base32;
+      await user.save();
+
+      // Generar el código QR
+      qrcode.toDataURL(otpauthUrl, (err, data_url) => {
+        if (err) {
+          return res.status(500).json({ error: 'Error generando QR' });
+        }
+
+        // Enviar el token y el QR para configurar TOTP
+        res.json({
+          message: 'Inicio de sesión exitoso',
+          token: token,
+          qrcode: data_url
+        });
+      });
+    } else {
+      // Si ya tiene TOTP configurado, solo devolver el token
+      res.json({
+        message: 'Inicio de sesión exitoso',
+        token: token
+      });
+    }
+  } catch (error) {
+    console.error('Error en login:', error);
+    res.status(500).json({ error: 'Error interno del servidor' });
+  }
+});
+
 
 // Endpoint actualizado para generar QR vinculado a un usuario específico
 app.post('/generate-qr', async (req, res) => {
@@ -203,7 +262,6 @@ app.post('/verify-totp', async (req, res) => {
   }
 });
 
-// Resto del código...
 
 app.listen(PORT, () => {
   console.log(`Servidor en funcionamiento en http://localhost:${PORT}`);
